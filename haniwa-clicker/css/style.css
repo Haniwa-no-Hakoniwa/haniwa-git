@@ -9,7 +9,11 @@ h1{
 .haniwa-img{
   text-align: center;
 }
-
+@media screen and (max-width: 750px) {
+  .haniwa-img img{
+    width: 100%;
+  }
+}
 .clicknum{
   font-size: 32px;
   position: absolute;
