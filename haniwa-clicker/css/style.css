@@ -1,0 +1,19 @@
+body{
+  position: relative;
+}
+
+h1{
+  text-align: center;
+}
+
+.haniwa-img{
+  text-align: center;
+}
+
+.clicknum{
+  font-size: 32px;
+  position: absolute;
+  left: 827px;
+  top: 200px;
+  font-weight: bold;
+}
