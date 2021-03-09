@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/haniwa-git/react/react-testapp01/my-app/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/haniwa-git/react/react-testapp01/my-app/static/js/main.a31a76ce.chunk.js",
-    "main.js.map": "/haniwa-git/react/react-testapp01/my-app/static/js/main.a31a76ce.chunk.js.map",
-    "runtime-main.js": "/haniwa-git/react/react-testapp01/my-app/static/js/runtime-main.c18cbb43.js",
-    "runtime-main.js.map": "/haniwa-git/react/react-testapp01/my-app/static/js/runtime-main.c18cbb43.js.map",
-    "static/js/2.db39837d.chunk.js": "/haniwa-git/react/react-testapp01/my-app/static/js/2.db39837d.chunk.js",
-    "static/js/2.db39837d.chunk.js.map": "/haniwa-git/react/react-testapp01/my-app/static/js/2.db39837d.chunk.js.map",
-    "static/js/3.4a34e60f.chunk.js": "/haniwa-git/react/react-testapp01/my-app/static/js/3.4a34e60f.chunk.js",
-    "static/js/3.4a34e60f.chunk.js.map": "/haniwa-git/react/react-testapp01/my-app/static/js/3.4a34e60f.chunk.js.map",
-    "index.html": "/haniwa-git/react/react-testapp01/my-app/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/haniwa-git/react/react-testapp01/my-app/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.db39837d.chunk.js.LICENSE.txt": "/haniwa-git/react/react-testapp01/my-app/static/js/2.db39837d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/haniwa-git/react/react-testapp01/my-app/static/media/logo.6ce24c58.svg"
+    "main.css": "/haniwa-git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/haniwa-git/static/js/main.a31a76ce.chunk.js",
+    "main.js.map": "/haniwa-git/static/js/main.a31a76ce.chunk.js.map",
+    "runtime-main.js": "/haniwa-git/static/js/runtime-main.6fe2c799.js",
+    "runtime-main.js.map": "/haniwa-git/static/js/runtime-main.6fe2c799.js.map",
+    "static/js/2.db39837d.chunk.js": "/haniwa-git/static/js/2.db39837d.chunk.js",
+    "static/js/2.db39837d.chunk.js.map": "/haniwa-git/static/js/2.db39837d.chunk.js.map",
+    "static/js/3.4a34e60f.chunk.js": "/haniwa-git/static/js/3.4a34e60f.chunk.js",
+    "static/js/3.4a34e60f.chunk.js.map": "/haniwa-git/static/js/3.4a34e60f.chunk.js.map",
+    "index.html": "/haniwa-git/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/haniwa-git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.db39837d.chunk.js.LICENSE.txt": "/haniwa-git/static/js/2.db39837d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/haniwa-git/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c18cbb43.js",
+    "static/js/runtime-main.6fe2c799.js",
     "static/js/2.db39837d.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.a31a76ce.chunk.js"
